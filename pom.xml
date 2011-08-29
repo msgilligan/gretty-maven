@@ -17,16 +17,6 @@
             <artifactId>gmaven-runtime-default</artifactId>
             <version>1.0-rc-3</version>
         </dependency>
-        <dependency>
-            <groupId>org.eclipse.jetty</groupId>
-            <artifactId>jetty-servlet</artifactId>
-            <version>7.4.4.v20110707</version>
-        </dependency>
-        <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>servlet-api</artifactId>
-            <version>2.5</version>
-        </dependency>
     </dependencies>
     <build>
         <plugins>
